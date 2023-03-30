@@ -112,7 +112,7 @@ Some datasets explicitly target at philosophical reasoning types, e.g. deduction
   </tr >
   
   <tr>
-      <th rowspan="6" colspan="2" align="center" valign="middle">Deductive Reasoning</th>
+      <th rowspan="7" colspan="2" align="center" valign="middle">Deductive Reasoning</th>
       <td align="center">babI-15</td>
       <td align="center">-</td>
       <td align="center">extraction</td>
