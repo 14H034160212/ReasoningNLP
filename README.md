@@ -263,7 +263,7 @@ Deductive reasoning:
 
 10. **Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation** IJCLR-NeSy (2022)
 
-      *Qiming Bao, Alex Yuxuan Peng, Tim Hartill, Neset Tan, Zhenyun Deng, Michael Witbrock, Jiamou Liu* [[pdf](https://www.cs.ox.ac.uk/isg/conferences/tmp-proceedings/NeSy2022/paper15.pdf)]
+      *Qiming Bao, Alex Yuxuan Peng, Tim Hartill, Neset Tan, Zhenyun Deng, Michael Witbrock, Jiamou Liu* [[pdf](https://www.cs.ox.ac.uk/isg/conferences/tmp-proceedings/NeSy2022/paper15.pdf)] [[project](https://github.com/Strong-AI-Lab/Multi-Step-Deductive-Reasoning-Over-Natural-Language)]
 
 11. **Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning** arXiv (2022)
 
