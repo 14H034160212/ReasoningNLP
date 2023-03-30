@@ -138,7 +138,7 @@ Some datasets explicitly target at philosophical reasoning types, e.g. deduction
       <td align="center">500k</td>
       <td align="center">classification</td>
       <td align="center"> <a href="https://www.cs.ox.ac.uk/isg/conferences/tmp-proceedings/NeSy2022/paper15.pdf">paper</a> <br /> <a href="https://github.com/Strong-AI-Lab/Multi-Step-Deductive-Reasoning-Over-Natural-Language">project</a>  </td>
-      <td align="center">deeper multi-step deductive reasoning, variant of RuleTaker</td>
+      <td align="center">larger deep multi-step deductive reasoning, variant of RuleTaker</td>
   </tr>
   <tr>
       <td align="center">AAC</td>
