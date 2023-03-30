@@ -261,31 +261,35 @@ Deductive reasoning:
 
    *Hanhao Qu, Yu Cao, Jun Gao, Liang Ding, Ruifeng Xu* [[pdf](https://aclanthology.org/2022.naacl-main.216.pdf)] [[project](https://github.com/find-knowledge/IBR)]
 
-10. **Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning** arXiv (2022)
+10. **Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation** IJCLR-NeSy (2022)
+
+      *Qiming Bao, Alex Yuxuan Peng, Tim Hartill, Neset Tan, Zhenyun Deng, Michael Witbrock, Jiamou Liu* [[pdf](https://www.cs.ox.ac.uk/isg/conferences/tmp-proceedings/NeSy2022/paper15.pdf)]
+
+11. **Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning** arXiv (2022)
 
       *Antonia Creswell, Murray Shanahan, Irina Higgins* [[pdf](https://arxiv.org/pdf/2205.09712.pdf)]
 
-11. **Generating Natural Language Proofs with Verifier-Guided Search** arXiv (2022)
+12. **Generating Natural Language Proofs with Verifier-Guided Search** arXiv (2022)
 
       *Kaiyu Yang, Jia Deng, Danqi Chen* [[pdf](https://arxiv.org/pdf/2205.12443.pdf)] [[project](https://github.com/princeton-nlp/NLProofS)]
 
-12. **ROBUSTLR: A Diagnostic Benchmark for Evaluating Logical Robustness of Deductive Reasoners** arXiv (2022)
+13. **ROBUSTLR: A Diagnostic Benchmark for Evaluating Logical Robustness of Deductive Reasoners** arXiv (2022)
 
       *Soumya Sanyal, Zeyi Liao, Xiang Ren* [[pdf](https://arxiv.org/pdf/2205.12598.pdf)] [[project](https://github.com/INK-USC/RobustLR)]
 
-13. **Language models show human-like content effects on reasoning** arXiv (2022)
+14. **Language models show human-like content effects on reasoning** arXiv (2022)
 
       *Ishita Dasgupta, Andrew K. Lampinen, Stephanie C. Y. Chan, Antonia Creswell, Dharshan Kumaran, James L. McClelland, Felix Hill* [[pdf](https://arxiv.org/pdf/2207.07051.pdf)]
 
-14. **Faithful Reasoning Using Large Language Models** arXiv (2022)
+15. **Faithful Reasoning Using Large Language Models** arXiv (2022)
 
       *Antonia Creswell, Murray Shanahan* [[pdf](https://arxiv.org/pdf/2208.14271.pdf)]
 
-15. **Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought** arXiv (2022)
+16. **Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought** arXiv (2022)
 
       *Abulhair Saparov, He He* [[pdf](https://arxiv.org/pdf/2210.01240.pdf)] [[project](https://github.com/asaparov/prontoqa)]
 
-16. **LAMBADA: Backward Chaining for Automated Reasoning in Natural Language** arXiv (2022)
+17. **LAMBADA: Backward Chaining for Automated Reasoning in Natural Language** arXiv (2022)
 
       *Seyed Mehran Kazemi, Najoung Kim, Deepti Bhatia, Xin Xu, Deepak Ramachandran* [[pdf](https://arxiv.org/pdf/2212.13894.pdf)]
 
